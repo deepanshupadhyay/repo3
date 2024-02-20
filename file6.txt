@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 me ni bol ra 
+=======
+kya me bolu
+>>>>>>> e7b26e93984ef57eab344c8f918f2f4b4dbedf4a
